@@ -338,8 +338,7 @@ external_links:
   enabled: true
   rel: external nofollow noopener
   target: _blank
-  exclude:
-    - _pages/blog.md
+  exclude: _pages/blog.md
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
