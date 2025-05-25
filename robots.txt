@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://benchin.github.io/sitemap.xml
+Sitemap: https://benchinny.github.io/sitemap.xml
