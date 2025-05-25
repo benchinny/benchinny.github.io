@@ -191,6 +191,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -339,7 +340,6 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
-    - _pages/blog.md
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
