@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Motion misperceptions in low vision populations
+description: A new paradigm for assessing mechanisms of motion perception in people with low vision
+img: assets/img/lowVisionCoverImg.png
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -34,14 +33,6 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
 You can also put regular text between your rows of images.
