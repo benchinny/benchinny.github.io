@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Postdoctoral Researcher, UC Berkeley School of Optometry
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an incoming assistant professor at the Chester F. Carlson Center for Imaging Science at the Rochester Institute of Technology (RIT). I'll be starting this position July 1st, 2025, and am currently wrapping up a postdoc at UC Berkeley in the lab of Dr. Emily Cooper. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am actively looking for graduates students and a postdoc--if you are interested in my planned research, please send me an email! In my new lab, I plan to study visuomotor behavior in human beings. I am particularly interested in visual accommodation, which refers to the act of focusing the lens in the eyeball. I am also interested in hand-eye coordination during tracking of moving objects.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You may reach me via email at bechin AT berkeley DOT edu. 
