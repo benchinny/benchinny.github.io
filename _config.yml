@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Benjamin
+title: Ben Chin's website # the website title (if blank, full name will be used instead)
+first_name: Benjamin Chin
 middle_name:
-last_name: Chin
+last_name: 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -197,7 +197,6 @@ exclude:
   - _pages/projects.md
   - _pages/teaching.md
   - _pages/repositories.md
-  - _pages/publications.md
   - _pages/cv.md
   - _pages/profiles.md
   - _pages/dropdown.md
