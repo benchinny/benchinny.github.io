@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-ongoing-and-recent-projects",
+          title: "Ongoing and recent projects",
+          description: "Two of the projects described below are close to submission, and one was published in 2024.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -409,9 +409,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-determining-wavelength-in-focus-during-accommodation-to-polychromatic-stimuli",
+          title: 'Determining wavelength-in-focus during accommodation to polychromatic stimuli',
+          description: "Characterizing how the eye focuses on stimuli composed of different light spectra",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-motion-misperceptions-in-low-vision-populations",
