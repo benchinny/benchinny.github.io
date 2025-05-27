@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Benjamin Chin
+    - name: Email
+      value: bechin [AT] berkeley [DOT] edu      
 
 - title: Education
   type: time_table
@@ -19,7 +21,10 @@
   contents:
     - title: Postdoctoral Scholar
       institution: University of California, Berkeley
-      year: 2023 - Present
+      year: Jan 2023 - Present
+    - title: Postdoctoral Scholar
+      institution: University of Pennsylvania
+      year: May 2022 - Dec 2022
 
 - title: Honors and Awards
   type: time_table
