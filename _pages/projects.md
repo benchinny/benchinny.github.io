@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Ongoing and recent projects
+title: projects
 permalink: /projects/
-description: Two of the projects described below are close to submission, and one was published in 2024.
+description: Ongoing and recent projects
 nav: true
 nav_order: 3
 display_categories: [work]
