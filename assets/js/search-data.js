@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-ongoing-and-recent-projects",
-          title: "Ongoing and recent projects",
-          description: "Two of the projects described below are close to submission, and one was published in 2024.",
+        },{id: "nav-projects",
+          title: "projects",
+          description: "Ongoing and recent projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -419,9 +419,9 @@ ninja.data = [{
           description: "A new paradigm for assessing mechanisms of motion perception in people with low vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-temporal-processing-in-the-visual-system",
+          title: 'Temporal processing in the visual system',
+          description: "Probing how color signals in the visual system are combined across time",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{
