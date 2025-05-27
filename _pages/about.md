@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an incoming assistant professor at the Chester F. Carlson Center for Imaging Science at the Rochester Institute of Technology (RIT). I'll be starting this position July 1st, 2025, and am currently wrapping up a postdoc at UC Berkeley in the lab of Dr. Emily Cooper. 
+I'm an incoming assistant professor at the Chester F. Carlson Center for Imaging Science at the Rochester Institute of Technology (RIT). I'll be starting this position July 1st, 2025, and am currently wrapping up a postdoc at UC Berkeley in the lab of <a href="https://www.emilyacooper.org/">Dr. Emily Cooper</a>. 
 
 I am actively looking for graduates students and a postdoc--if you are interested in my planned research, please send me an email! 
 

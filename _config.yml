@@ -192,7 +192,6 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/blog.md
-  - _pages/news.md
   - _includes/latest_posts.liquid
   - _pages/teaching.md
   - _pages/repositories.md
