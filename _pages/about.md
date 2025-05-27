@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Postdoctoral Researcher, UC Berkeley School of Optometry
+subtitle:  
 
 profile:
   align: right
