@@ -193,7 +193,6 @@ exclude:
   - vendor
   - _pages/blog.md
   - _includes/latest_posts.liquid
-  - _pages/teaching.md
   - _pages/repositories.md
   - _pages/profiles.md
   - _pages/dropdown.md
