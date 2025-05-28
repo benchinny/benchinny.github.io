@@ -2,9 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: In my new lab, I plan to study visuomotor behavior in human beings. I am particularly interested in visual accommodation, which refers to the act of focusing the lens in the eyeball. I am also interested in hand-eye coordination during manual tracking of moving objects. 
-
-The links below illustrate a mix of recently-completed projects as well as ongoing ones. The first link gives the best idea of where I plan to go with my research. 
+description: In my new lab, I plan to study visuomotor behavior in human beings. I am particularly interested in visual accommodation, which refers to the act of focusing the lens in the eyeball. I am also interested in hand-eye coordination during manual tracking of moving objects.  The links below illustrate a mix of recently-completed projects as well as ongoing ones. The first link gives the best idea of where I plan to go with my research. 
 nav: true
 nav_order: 3
 display_categories: [work]
