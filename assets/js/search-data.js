@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "Ongoing and recently published projects. Click on the links below to learn more.",
+        },{id: "nav-research",
+          title: "research",
+          description: "In my new lab, I plan to study visuomotor behavior in human beings. I am particularly interested in visual accommodation, which refers to the act of focusing the lens in the eyeball. I am also interested in hand-eye coordination during manual tracking of moving objects. The links below illustrate a mix of recently-completed projects as well as ongoing ones. The first link gives the best idea of where I plan to go with my research.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -413,14 +413,14 @@ ninja.data = [{
           description: "Characterizing how the eye focuses on stimuli composed of different light spectra",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-motion-misperceptions-in-low-vision-populations",
-          title: 'Motion misperceptions in low vision populations',
-          description: "A new paradigm for assessing mechanisms of motion perception in people with low vision",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-temporal-processing-in-the-visual-system",
           title: 'Temporal processing in the visual system',
           description: "Probing how color signals in the visual system are combined across time",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-motion-misperceptions-in-low-vision-populations",
+          title: 'Motion misperceptions in low vision populations',
+          description: "A new paradigm for assessing mechanisms of motion perception in people with low vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{
