@@ -29,6 +29,6 @@ latest_posts:
 
 I'm an incoming assistant professor at the <a href="https://www.rit.edu/science/chester-f-carlson-center-imaging-science">Chester F. Carlson Center for Imaging Science</a> at the Rochester Institute of Technology (RIT). I'll be starting this position July 1st, 2025, and am currently wrapping up a postdoc at UC Berkeley in the lab of <a href="https://www.emilyacooper.org/">Dr. Emily Cooper</a>. 
 
-I am actively looking for graduate students and a postdoc--if you are looking for a lab to join, consider checking out my <a href="https://benchinny.github.io/projects/">research</a> and <a href="https://benchinny.github.io/publications/">publications</a> to decide whether we might be a good fit! 
+I am actively looking for graduate students and a postdoc--if you are looking for a lab to join, consider checking out my <a href="https://benchinny.github.io/projects/">research</a> and <a href="https://benchinny.github.io/publications/">publications</a> to decide whether we might be a good fit! I specialize in the study of human vision--both the perceptual and oculomotor aspects of it. 
 
 You may reach me via email at bechin [AT] berkeley [DOT] edu. 
