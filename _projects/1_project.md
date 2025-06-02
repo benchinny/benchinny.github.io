@@ -7,7 +7,7 @@ importance: 2
 category: work
 ---
 
-Visual accommodation is the process by which the visual system changes the thickness, and thus power, of the lens in the eyeball to focus light from different distances. But accommodation can never be perfect because different wavelengths of light are refracted, and thus focused, differently; a phenomenon known as chromatic aberration. As a consequence, only one wavelength can be in focus on the retina at a time. What wavelength is it? And does the wavelength in focus depend on the light spectrum of the stimulus? 
+Visual accommodation is the process by which the visual system changes the thickness, and thus power, of the lens in the eyeball to focus light from different distances. But accommodation can never be perfect because different wavelengths of light are refracted, and thus focused, differently; a phenomenon known as chromatic aberration. As a consequence, only one wavelength can be in focus on the retina at a time. What wavelength is it? And does the wavelength in focus depend on the light spectrum of the stimulus? This question is highly relevant to understanding the quality of images formed in our eyes, and may help inform theories of how myopia (short-sightedness) develops. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
