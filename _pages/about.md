@@ -31,4 +31,4 @@ I'm an assistant professor at the <a href="https://www.rit.edu/science/chester-f
 
 I am on the lookout for graduate students and may be able to fund a postdoc in the near future--if you are looking for a lab to join, consider checking out my <a href="https://benchinny.github.io/projects/">research</a> and <a href="https://benchinny.github.io/publications/">publications</a> to decide whether we might be a good fit! I specialize in the study of human vision--both the perceptual and oculomotor aspects of it. 
 
-You may reach me via email at bechin [AT] berkeley [DOT] edu. 
+You may reach me via email at bmccis [AT] rit [DOT] edu. 
