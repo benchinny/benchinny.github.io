@@ -4,7 +4,7 @@
     - name: Full Name
       value: Benjamin Chin
     - name: Email
-      value: bechin [AT] berkeley [DOT] edu      
+      value: bmccis [AT] rit [DOT] edu      
 
 - title: Education
   type: time_table
@@ -19,9 +19,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: Rochester Institute of Technology
+      year: Jul 2025 - Present  
     - title: Postdoctoral Scholar
       institution: University of California, Berkeley
-      year: Jan 2023 - Present
+      year: Jan 2023 - Jun 2025
     - title: Postdoctoral Scholar
       institution: University of Pennsylvania
       year: May - Dec 2022
